@@ -1,10 +1,10 @@
 # php_hahaha_framework
  \
 <img src='https://github.com/hahaha0417/php_hahaha_framework/blob/master/php%20hahaha%20framework.png' width=50%><img src='https://github.com/hahaha0417/php_hahaha_framework/blob/master/iTW.png' width=50%> \
- \
-// ---------------------------------------------------- \
+ 
+// ---------------------------------------------------- 
 ## 版權請看license
-// ---------------------------------------------------- \
+// ---------------------------------------------------- 
 暫時有工作了 \
 這邊先停止，有空才會繼續弄這個 \
 我主要還是維護我的hahahalib(Windows Form專用) \

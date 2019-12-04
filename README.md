@@ -2,9 +2,12 @@
  \
 <img src='https://github.com/hahaha0417/php_hahaha_framework/blob/master/php%20hahaha%20framework.png' width=50%><img src='https://github.com/hahaha0417/php_hahaha_framework/blob/master/iTW.png' width=50%> 
  
-// ---------------------------------------------------- 
+
+## 使用方法
+將專案下載，並將template資料夾內容替換掉根目錄的相同資料夾 
+ 
 ## 版權請看license
-// ---------------------------------------------------- 
+
 ## 規劃
 這是hahahalib的附屬專案 \
 也就是原則上他必須綁定hahahalib才可以實際工作 \

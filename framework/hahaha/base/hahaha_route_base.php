@@ -54,6 +54,13 @@ class hahaha_route_base
 		// 跑Route
 		$route->Run();
 	}
+
+	/*
+	自訂路由
+	*/
+	public function Run_Custom()
+	{
+	}
 	
 	public function Route()
 	{

@@ -10,7 +10,7 @@ public static $Class_Name_ = "\hahaha\hahaha_application";
 trait hahaha_class_instance_handle_trait_lite
 {
 	public static $Hanele_Lite_ = NULL;
-	
+
 	/*
 	因為怕改很多次，所以函式化
 	不會沒事去釋放物件，所以用函式可以接受

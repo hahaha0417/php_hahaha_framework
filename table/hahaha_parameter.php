@@ -10,6 +10,8 @@ namespace hahaha;
 可以用reference or copy array
 重點 : reference比較快
 如是php-fpm - 則使用前要先Release，這可能是上次的資料
+
+多重初始化，可以寫多種初始化，new後不同的initial準備不同的parameter
 */
 class hahaha_parameter
 {	
